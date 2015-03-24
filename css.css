@@ -1,0 +1,25 @@
+body { font-family: ‘Metrophobic’, Arial, serif; font-weight: 200; }
+body {color: #FFFFFF;}
+body { 
+  background-image:url(http://www.iphonewallpaperhi.com/wp-content/uploads/20120514/black-pattern-iphone-hd-wallpaper-iphonewallpaperhi.com-834-320x480.jpg); 
+  background-repeat: repeat; 
+}
+#container { 
+margin-top:5px; 
+margin-left:10%; 
+margin-right:auto; 
+margin-bottom:30px; 
+border: 1px solid FFFFFF; 
+}
+body { cursor: url(http://www.limo-for-hire.com/images/icon_search_small.png); }
+
+h1 { 
+  text-align:center; 
+}
+.goal { 
+  text-align:center; 
+}
+.goal_ { 
+  text-align:left; 
+}
+
